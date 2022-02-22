@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to A letter from a gentleman in the country, to a Member of the House of Commons: on the votes of the 14th instant. Relating to the trade of Ireland</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25525</idno>
+            <idno type="STC">Wing A3315</idno>
+            <idno type="STC">ESTC R214852</idno>
+            <idno type="EEBO-CITATION">99826908</idno>
+            <idno type="PROQUEST">99826908</idno>
+            <idno type="VID">31319</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25525)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31319)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1901:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to A letter from a gentleman in the country, to a Member of the House of Commons: on the votes of the 14th instant. Relating to the trade of Ireland</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>re-printed by Andrew Crook, printer to the King's Most Excellent Majesty, on Cork-Hill: and are to be sold by William Norman and Eliphel Dobson, booksellers,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: A letter from a gentleman in the country, to a member of the House of Commons; in reference to the votes of the 14th instant.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>F. B. --  Letter from a gentleman in the country, to a Member of the House of Commons --  Early works to 1800.</term>
+               <term>Restraint of trade --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  Economic conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31319:1"/>
+            <pb facs="tcp:31319:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO A LETTER From a Gentleman in the <hi>Country,</hi> to a <hi>Member</hi> of the <hi>Houſe of COMMONS:</hi>
+            </p>
+            <p>On the VOTES of the 14th Inſtant. Relating to the <hi>Trade of Ireland.</hi>
+            </p>
+            <p>
+               <hi>DUBLIN:</hi> Re-Printed by <hi>Andrew Crook,</hi> Printer to the King's Moſt Excellent Majeſty, on <hi>Cork-Hill:</hi> And are to be ſold by <hi>William Norman</hi> and <hi>Eliphel Dobſon,</hi> Bookſellers, 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:31319:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:31319:2"/>
+            <head>An <hi>ANSWER</hi> to a Let<g ref="char:EOLhyphen"/>ter from a Gentleman in the Country, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WE live in an Age where Scribling is the Language of one man to another; and too often uſed on a Subject, to which they are as much ſtrangers, as to each other's perſon. This ſeems our caſe, we come abroad with the Crowd to pleaſe our ſelves, tho' we diſturb others; but that which brings me in Print, is, becauſe I think Men of better Underſtanding will not trouble them<g ref="char:EOLhyphen"/>ſelves to Anſwer your Unpoliſh'd Libel on the Govern<g ref="char:EOLhyphen"/>ment, and our Brethren in <hi>Ireland;</hi> and by that means your Invectives might have the ſucceſs you wiſht for, <hi>viz.</hi> A belief amongſt the Induſtrious part of the Nation; which, were they true, the firſt work of <hi>England</hi> ſhould be to remove our Friends, deſtroy the Natives, and ſend over a Hundred thouſand Soldiers to keep the Iſland from <hi>them;</hi> that know how to make good uſe of it, if we do'nt: But the beſt way of Confuting your Maxims in Trade and <hi>Government,</hi> is to repeat them, and then, a ve<g ref="char:EOLhyphen"/>ry few words will Anſwer them.</p>
+            <p>I begin with your aſſertion, <hi>That it cannot but be the trouble of all Thinking Men, to ſee a Kingdom and People once ſo famous for Trade and Navigation, to Fight themſelves out of both.</hi>
+            </p>
+            <pb n="4" facs="tcp:31319:3"/>
+            <p>To this it's Anſwer'd, I meet with few of your opi<g ref="char:EOLhyphen"/>nion, but ſuch as think the Nation did ill to Fight at all.</p>
+            <p>Obedience to the late K. tho' in Wooden Sooes, and Faggots on our backs, to <hi>Smithfield,</hi> was our duty, your Holy Church tells us; but that which makes few believe it, is, that Doctrine was always Preach'd by Men of Debauch'd Lives, and Proſtitutes for preferment. But Sir, I muſt tell you what Men that think as much as your's, ſay; and that is, They believe that by the War which is ended with ſo much honour and advantage to the Nation, we have ſecured our Trade and Navigation, with ſomething more that perhaps you are no friend un<g ref="char:EOLhyphen"/>to, <hi>our Laws and Religion;</hi> but as to Trade and Naviga<g ref="char:EOLhyphen"/>tion, pray how ſhould we have preſerved them if the French had been Maſters of the <hi>United Provinces.</hi> For ſeeing we and the Dutch were fully employ'd both toge<g ref="char:EOLhyphen"/>ther, to deal with the French alone, which way could we have blown the French and Dutch Fleets out of the Sea in caſe they had been united. Thoſe that find fault with our War, would be pleaſed with our Captivity: Soft words are called for by ſuch as are wounded with Truths, therefore I ſhall not ſpeak my Thoughts of your Principles. You tell us of 700 <hi>years Harveſt, and</hi> 50 <hi>Millions ſpent in this War;</hi> if it were more, Engliſhmen think we have the worth of it: But I hope you do not believe the whole 50 Millions are carried out of the King<g ref="char:EOLhyphen"/>dom; it is demonſtrable, that the greateſt part is ſtill amongſt us, tho' I confeſs it may be in worſe hands than before the War. I muſt own my ſelf no Friend to that practice, which enriches the Servant and beggers the Maſter. It ſhould be the abhorrence of all good Men, to ſee people in Civil Employments ready to burſt with un<g ref="char:EOLhyphen"/>righteous Gain, and the Induſtrious Merchant languiſh<g ref="char:EOLhyphen"/>ing by the Oppreſſion of their Servants; but this we hope will be enquired into.</p>
+            <pb n="5" facs="tcp:31319:3"/>
+            <p>Your next Paragraph begins thus; <hi>Among the many Rivals of our Trade and Navigation, I have often thought</hi> Ireland <hi>to he the moſt Dangerous, and that which led me in<g ref="char:EOLhyphen"/>to this Opinion, was the practice of the two laſt Reigns, Incouraging the</hi> Iriſh <hi>more than their</hi> Engliſh <hi>Subjects in Trade and Navigation, thereby to make</hi> Ireland <hi>a Nurſery for Arbitrary Government, to which the</hi> English <hi>were Abetters.</hi>
+            </p>
+            <p>There needs no other Anſwer to your Thoughts, <hi>That</hi> Ireland <hi>is moſt dangerous to the Trade of</hi> England, but that all the yearly Exports of <hi>Ireland,</hi> amount not to the Value of one <hi>Eaſt-India</hi> Ship's Cargoe, as will appear by what follows.</p>
+            <p>That you ſay of the Deſign of the two laſt Reigns, to introduce Arbitrary Government is not doubted, but that the <hi>Engliſh</hi> in <hi>Ireland</hi> were Abetters to it, is moſt manifeſtly Falſe; there were no Men in the three Kingdoms, that ventured their Lives more bravely a<g ref="char:EOLhyphen"/>gainſt it, than they did; and to them I think in a great meaſure we owe our Quiet and our Trade, on the late happy Revolution of this Kingdom, which I fancy is the Reaſon you are ſo Angry with them, per<g ref="char:EOLhyphen"/>haps you cannot forgive the ſtand, they of <hi>Enniskilling</hi> and <hi>Londonderry</hi> made to the late King's Army, when they deſigned for <hi>Scotland</hi> if they could have Reduced thoſe Men in their way: They would then have been troubleſome to us nearer home, where <hi>You</hi> and <hi>Your Friends</hi> were ready to receive them.</p>
+            <p>As to the <hi>Engliſh</hi>'s being for <hi>Arbitrary Government,</hi> you are as much out, as in the numbers of the <hi>Iriſh</hi> Seamen; and leaſt you ſhould think I ſpeak at ran<g ref="char:EOLhyphen"/>dom, as you do, know, I was Born in a City that hath a great ſhare in the Trade of <hi>Ireland;</hi> have been thrice in that Kingdom, and made all the Obſervation I could of the Nature, Trade, and Conſtitution of that
+<pb n="6" facs="tcp:31319:4"/>Country; amongſt other Things, I found they had very little Navigation; <hi>Dublin</hi> their Capital, had not one Ship belonging to it, <hi>Carickfergus,</hi> or <hi>Belfaſt,</hi> and <hi>Cork,</hi> had a few ſmall Craft, but not a Ship of Force or Burthen in the Kingdom. I enquired particularly the Number of their <hi>Iriſh</hi> Seamen, and by all I asked, was anſwered, they never ſaw one that could <hi>Top</hi> and <hi>Yard,</hi> a Phraſe they have among Seamen.</p>
+            <p>Your next Paragraph tells us, <hi>How dangerous it is to</hi> England, <hi>to leave</hi> Ireland <hi>to their own Conduct in Trade and Government.</hi>
+            </p>
+            <p>Surely you are a ſtranger to the Laws of both Kingdoms, or elſe you would have known that they can Paſs no Act of Parliament in <hi>Ireland,</hi> but what comes firſt from the King and Council here; and cannot alter one Word in it, but muſt take the Act juſt as it comes from <hi>England.</hi>
+            </p>
+            <p>Your following Obſervations of the Scituation, Na<g ref="char:EOLhyphen"/>ture, Product, <hi>&amp;c.</hi> are true; for that Reaſon I think we ſhould keep it in <hi>Engliſh</hi> Hands, and not follow your Propoſals to drive them out: But of that when I come to your Expedients.</p>
+            <p>Now as to your <hi>Five particulars,</hi> wherein you ſay, Ireland <hi>Interfers with the Trade of</hi> England; Firſt, <hi>in that of their Fiſhing,</hi> wherein no doubt they have Ad<g ref="char:EOLhyphen"/>vantage above us, but they never had yet Men, Mo<g ref="char:EOLhyphen"/>ney, or Craft to make uſe of it; the more's the pity, it being a loſs to us, and I think a Fault that we do not help them.</p>
+            <p>Your ſecond Aſſertion is true in part, <hi>Their Pro<g ref="char:EOLhyphen"/>viſions are Cheaper;</hi> but then let me tell you, they are not ſo good as ours, and their Butter and Cheeſe is near as dear.</p>
+            <p>Your third and fourth Obſervations, are ſo appa<g ref="char:EOLhyphen"/>rently Falſe, that one Word will Anſwer them both;
+<pb n="7" facs="tcp:31319:4"/>you ſay <hi>You have been twice in</hi> Ireland; but beſides your ſelf, I may venture to ſay, there was never any man in it but can tell you, there is not Timber to ſupply the tenth part of the Uſe of the Kingdom; I have ſeen a Survey of all the Woods in that Iſland, and except <hi>Shellela,</hi> there is not ſo much valuable Timber in the whole, as one Gen<g ref="char:EOLhyphen"/>tleman hath in <hi>England.</hi> Surely then we are in no dan<g ref="char:EOLhyphen"/>ger of their <hi>Building Ships,</hi> or <hi>Tanning Leather.</hi>
+            </p>
+            <p>Your Fifth Obſervation is of their <hi>Wooll,</hi> in which you are right; but as for the <hi>multitude of Iriſh Spinners,</hi> you are in an Error: They are ſo far from being <hi>our Ri<g ref="char:EOLhyphen"/>vals in the Woollen Manufactury,</hi> that this laſt year they could not get ſo much in all the Country as to cloath their ſmall Army.</p>
+            <p>But however, I think we have reaſon to look careful<g ref="char:EOLhyphen"/>ly into that Manufactury, which is the <hi>Soul</hi> of all we have left of Trade; and yet I ſee Advocates for the <hi>Eaſt-India</hi> Trade, to the deſtruction of our own Manufactu<g ref="char:EOLhyphen"/>ry at home.</p>
+            <p>In this, methinks we act like ill Husbands; that be<g ref="char:EOLhyphen"/>ing Abuſed abroad, Revenge themſelves at home on their Wives and Children. We are wheedl'd out of our Manufacturies by Deſigning Men, amongſt our ſelves; kick'd out of our <hi>Fiſhing</hi> abroad; and then like <hi>Sampſon,</hi> we pull down the Houſe upon our ſelves, to be reveng'd for our two Eyes. So I take our <hi>Woollen Manufactury, and Fiſhing</hi> to be. But let us deſtroy <hi>Ireland,</hi> beat our Wives and Children, and we ſhall Recover all.</p>
+            <p>You end your Fifth Paragraph with that which you think the moſt unaccountable of all, <hi>The ſuffering them to hold Parliaments.</hi>
+            </p>
+            <p>Now Sir, if you never read Hiſtory, and ſo are igno<g ref="char:EOLhyphen"/>rant how the Crown of <hi>England</hi> came firſt to be Entitu<g ref="char:EOLhyphen"/>led to <hi>Ireland,</hi> then it is great Aſſurance in you to talk of the Conſtitution of Kingdom you know nothing of:
+<pb n="8" facs="tcp:31319:5"/>If you have Read, you muſt know there was a Com<g ref="char:EOLhyphen"/>pact that they ſhould hold Parliaments, with the ſame Priviledges as <hi>England:</hi> And altho' they have by their own Parliaments abridged themſelves by <hi>Poynings Law,</hi> in ſome things, yet have they ſtill an Act of Parliament for <hi>Annual Parliaments,</hi> and another <hi>Act,</hi> that all Laws made in <hi>England</hi> before the Tenth of <hi>Henry</hi> VII. ſhould be in force in <hi>Ireland.</hi> I believe you will own we had Parliaments in <hi>England</hi> before <hi>Henry</hi> VII. they have then the ſame Right to hold Parliaments that we have, but they are a poor People, and muſt ſubmit. Have a care of that French Maxim (we know not whoſe turn it may be next) I remember in the Reign of <hi>Charles</hi> II. diſcour<g ref="char:EOLhyphen"/>ſing with the Duke of <hi>Ormonde</hi> (who I think, take him every way, was one of the Greateſt Men of that time) upon the Tryal of the Earl of <hi>Shaftsbury,</hi> his Grace ſaid, <hi>My Lord</hi> Shaftsbury <hi>was never my Friend, yet were I a Com<g ref="char:EOLhyphen"/>moner, and one of his Jury, I would ſtarve before I would find him Guilty by ſtraining the Law: We muſt have a care of Conſtitutions and Laws; they are of better uſe to preſerve our ſelves, than to take off our Enemies.</hi> It you were of this Opinion, you would not be againſt <hi>Ireland</hi>'s holding Parliaments. Have a care, Sir, of breaking into Con<g ref="char:EOLhyphen"/>ſtitutions, we know not who may come next; we are ſure His preſent Majeſty will preſerve our Conſtitution, and it is our happineſs, He is more tender of them then many of our ſelves; but if we will deſtroy them in a good Reign, there may come a time when our own Preſi<g ref="char:EOLhyphen"/>dents may be brought againſt us.</p>
+            <p>You end your Paragraph with an Invective ſaying, <hi>You hope the Houſe will make them Remember they were Con<g ref="char:EOLhyphen"/>quered.</hi> I remember to have ſeen a Book in this Reign, by Order of Parliament, Burn'd by the Common-Hang<g ref="char:EOLhyphen"/>man, for Aſſerting that Conquering Doctrine. It is by our Laws, that all the Monarchs of <hi>England,</hi> and a<g ref="char:EOLhyphen"/>mongſt
+<pb n="9" facs="tcp:31319:5"/>the reſt, His preſent <hi>Majeſty</hi> is declared to be King of <hi>Ireland, de Jure,</hi> when King of <hi>England, de Facto.</hi> Now if you pleaſe to remember, the <hi>Brittiſh</hi> of <hi>Ireland, who are Proprietors of moſt of that Kingdom,</hi> were as one man in the Intereſt of <hi>England;</hi> fought (as is ſaid before) for, and with the King, that came to deliver them from the <hi>Uſurpation and Tyranny of the late King</hi> James; for ſo it was, He having loſt his Ti<g ref="char:EOLhyphen"/>tle by <hi>Abdication,</hi> before he came to <hi>Ireland;</hi> And King <hi>William</hi> came there to reſcue his Proteſtant Sub<g ref="char:EOLhyphen"/>jects in <hi>Ireland,</hi> from the <hi>Ravage and Murders of the Rebellious</hi> Iriſh <hi>Subjects.</hi> This I hope you will not make a Conqueſt, if it be, we have had two or three of them in this Reign, by the Execution of Traytors at <hi>Tyburn.</hi>
+            </p>
+            <p>You now come to your Expedients, which are like that of an Engliſh Sea Captain, that being in danger of Two <hi>Dunkirk Men of War,</hi> a French Officer on Board him, Asked the Captain <hi>what he ſhould do, for he dreaded being carryed into</hi> France; <hi>Never fear,</hi> ſaid the Captain, <hi>I wont be taken: How can you be ſure of that,</hi> ſaid the Frenchman? <hi>I will firſt blow up my Ship,</hi> reply'd the Captain; at which <hi>Monſieur</hi> ſhrugg'd his Shoulders, and ſaid, <hi>Par ma foy un tres bon expedient Anglois.</hi> So are your Expedients; as will appear preſently. I will repeat them in Order, and then One Anſwer will ſerve them all.</p>
+            <list>
+               <item>1. <hi>That they ſhould not Build or keep at Sea, one Ship.</hi>
+               </item>
+               <item>2. <hi>That they be Bounded and Preſcribed in all their Trade by Act of Parliament here; not only to the place they ſhall go, but alſo to the Qualities and Natures of the Commodities they Export, and to the Time when they ſhall Export, that we may have the firſt Market.</hi>
+               </item>
+               <pb n="10" facs="tcp:31319:6"/>
+               <item>3 <hi>That they ſhou'd not Fiſh, but with Men and Boats of</hi> England.</item>
+               <item>4. <hi>That their Money be brought to the Standard of</hi> England.</item>
+               <item>5. <hi>That they hold no Parliament, but be Governed by the Parliament of</hi> England.</item>
+               <item>6. <hi>That they be not permitted to make any Manufacturies but Linnen.</hi>
+               </item>
+            </list>
+            <p>I told you before, one Anſwer ſhould ſerve for them all, and that ſhall be with a Queſtion, ſuch as a Porter made a Lord <hi>Mayor of London,</hi> in the Uſurper's time (for Regulating the price of Beer, was Proclaiming) <hi>That none ſhou'd be ſold for more then a Penny a Quart:</hi> A Porter ſtanding by my Lord Mayor's Horſe, call'd out, <hi>that there was the moſt material thing left out, which was, ap<g ref="char:EOLhyphen"/>pointing who ſhou'd drink that ſmall Beer, for he ſwore he'd drink none?</hi> So, Sir, you ſhould have appointed in your Expedients, who ſhould live in <hi>Ireland;</hi> for no Engliſh man will; And ſurely our Nation will not think it ſafe in any others Hands.</p>
+            <p>Methinks you make a bold ſtroke, to propoſe <hi>Ire<g ref="char:EOLhyphen"/>land</hi> ſhould be Governed by the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> that (in Engliſh) is <hi>Lopping off</hi> one of the Three Kingdoms from the Crown. Your Scheme of Govern<g ref="char:EOLhyphen"/>ment exceeds all I ever Read of; you would make <hi>Ireland</hi> to be a <hi>Common-wealth,</hi> but none of the Coun<g ref="char:EOLhyphen"/>try to be in the Government; ſure ſome body need Govern you, tho' it were in <hi>Bedlam.</hi>
+            </p>
+            <p>You and your Letter, with referring to Mr. <hi>Cary</hi> of <hi>Briſtol's Book;</hi> I know the Gentleman, and have Diſ<g ref="char:EOLhyphen"/>courſed on his Book, which tho' it comes not to your Notions, yet he abated much of it in Explanation.
+<pb n="11" facs="tcp:31319:6"/>And now, Sir, with your leave, I ſhall make ſome General Remarks on your whole Letter: What you ſay <hi>of the extraordinary advantages</hi> Ireland <hi>hath above us in Trade and Navigation,</hi> is true, and it is as true, that they never had opportunity to make uſe of them.</p>
+            <p>The <hi>Brittiſh</hi> in general ſpeaking, acquiring their Fortunes there by Arms, not with <hi>Arts</hi> or <hi>Trade;</hi> thoſe few that come there with either of the two laſt, are uſually ſuch as have miſ-carryed in their own Coun<g ref="char:EOLhyphen"/>try; ſo for want of ſtock, do rarely more than earn their Bread in that plentiful Country. Frequent Re<g ref="char:EOLhyphen"/>bellions leſſens the Inhabitants, but adds Acres to the <hi>Brittiſh;</hi> which they are more fond of, then Naviga<g ref="char:EOLhyphen"/>tion and Commerce: And ſo far you are in the right, <hi>that they are moſt taken up in Country Imployments,</hi> but you are much in the wrong in ſaying, <hi>the</hi> Iriſh <hi>are moſt in the Trade and Navigation;</hi> they ſeldom Sail further then to a Potatoe Garden, and Trade only in Cows. I have been in ſeveral parts of the World, and accord<g ref="char:EOLhyphen"/>ing to my Obſervation, the <hi>Iridians</hi> are as Ignorant of Trade and Navigation, as the <hi>Indians</hi> in <hi>America.</hi> Now that you ſhould <hi>fear their Numbers at Sea,</hi> that have not Five Seamen of their Nation, gives ground to believe, you writ with Jeſuitical Maxims; <hi>Throw dirt</hi> — <hi>how<g ref="char:EOLhyphen"/>ever falſe, ſome may ſtick.</hi> Put into the Heads of the multitude, frightful Stories of the danger we are in, of being over-run by the <hi>Iriſh,</hi> both at Land and Sea; and that you may have two ſtrings to your Bow, you bring in <hi>Foreigners Running away with what the</hi> Iriſh <hi>do not of the Trade of</hi> Ireland. To ſhew your Integrity in this, I will give undeniable Authority, out of the Cuſtom-houſe Books of <hi>Ireland</hi> againſt you.</p>
+            <p>I have now by me an exact Account of all the Ex<g ref="char:EOLhyphen"/>ports and Imports of <hi>Ireland,</hi> for Six Years of the greateſt time of <hi>Ireland's</hi> proſperity, and by this Ac<g ref="char:EOLhyphen"/>count,
+<pb n="12" facs="tcp:31319:7"/>their Exports in the Year 1682, amounted but to Five Hundred Forty One Thouſand Four Hundred and Nineteen pounds <hi>Sterling,</hi> of which Four Hundred and Two Thouſand pounds was for Accompt of Mer<g ref="char:EOLhyphen"/>chants in <hi>England;</hi> and Exported in their Ships, One Hundred Thouſand pounds <hi>Sterling,</hi> for Accompt of the <hi>Engliſh</hi> in <hi>Ireland,</hi> and about Forty Thouſand for Accompt of Foreigners. And that you may not think this Computation was made at Random, I will tell you how it was done.</p>
+            <p>The whole Account was drawn out of the Cuſtom-houſe Books by a Clerk under the Examiner of their Accounts, with every Merchants Name that entered them, and to what Place the Ship belonged, in which the Goods were Exported: this was after all brought into Form by a Man of the greateſt Practiſe and Ex<g ref="char:EOLhyphen"/>perience that perchance was ever a Trader in that Kingdom, who knew for whom the moſt conſide<g ref="char:EOLhyphen"/>rable Factors dealt. (For by the way, moſt of the Trade of that Kingdom, is managed, by Factors) This Gentle<g ref="char:EOLhyphen"/>man did aſſure me with demonſtrations more then can be comprehended in the compaſs of this Diſcourſe, that there was very little Exceptions to be made to this Ac<g ref="char:EOLhyphen"/>count, which he ſpent ſome years in perfecting, for he writ Obſervations on every Commodity Exported and Imported. What is here brought againſt your <hi>matter of Fact,</hi> as you call it, is I think undeniable.</p>
+            <p>And that your ignorance in Commerce may ap<g ref="char:EOLhyphen"/>pear, I will ſhew that what you ſay of <hi>Foreigners run<g ref="char:EOLhyphen"/>ning away with the Trade of</hi> Ireland, is impoſſible; and that for theſe Reaſons.</p>
+            <list>
+               <item>1. Firſt, becauſe the greateſt part of their Product is by their own Laws prohibited to all parts of the World but <hi>England,</hi> as their <hi>Wool, Sheep-skins, Woollen Yarn, Linnen-Yarn:</hi> Green and Tan'd Hides
+<pb n="13" facs="tcp:31319:7"/>pay double Duty upon their Export to any part but <hi>England;</hi> all which Commodities are more then half their Export.</item>
+               <item>2. The <hi>Act of Navigation</hi> is in Force by Law in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> Now Sir, if you know not my meaning by mentioning that Act, it is, That by that Statute <hi>no Foreign Ship can carry any Goods from</hi> Ireland <hi>to</hi> England.</item>
+               <item>3. The greateſt part of the Proviſions of <hi>Ireland,</hi> are Exported by Ships of <hi>England</hi> to our Foreign Plantations, for little Beef, or Pork, whatever we think, goes to Foreign Markets; now the Act of Navigation before mentioned, Prohibits all Fo<g ref="char:EOLhyphen"/>reign Ships from Trading to our Plantations.</item>
+               <item>4. By Law they are Prohibited the Importation of of any, tho' Comodities of our Foreign Plantati<g ref="char:EOLhyphen"/>ons but from <hi>England;</hi> not ſo much as a Pound of Tobacco or Sugar is admitted into <hi>Ireland,</hi> but what comes from <hi>England;</hi> I may add, that they Forfeit Ship and Goods, if they carry out of <hi>Ireland</hi> any thing but Proviſions; Servants and Horſes. I knew a Ship ſeiz'd in <hi>Virginia</hi> for bring<g ref="char:EOLhyphen"/>ing but a Dozen of <hi>Woollen Stockins</hi> from <hi>Ireland.</hi> After all this, pray what is there left for Foreign<g ref="char:EOLhyphen"/>ers to drive that mighty Trade you ſpeak of in <hi>Ireland.</hi>
+               </item>
+            </list>
+            <p>I think it proper to enquire now where the Mil<g ref="char:EOLhyphen"/>lion is, you tell us <hi>Ireland runs away with, of the Trade of England;</hi> it is proved, that their whole. Annual Exports amounts to little more then one half of your Million, and of that Four Hundred Thouſand goes for <hi>England,</hi>
+               <pb n="14" facs="tcp:31319:8"/>and Engliſh Merchants Accounts; you have then but Forty Thouſand Pounds to raiſe your Million out of.</p>
+            <p>There is another remarkable Inſtance you give <hi>of the danger we are in by raiſing their Money</hi> 20 <hi>per Cent.</hi> above its value; it would be no very mannerly que<g ref="char:EOLhyphen"/>ſtion to ask you where you have been for this 12 Months, in which time the nature of Coyn hath been ſo fully Debated and Reſolved in Parliament, and explained to the whole Nation, that I thought every one in it was convinced, that by raiſing Money we cheated no body but our ſelves; and I do not think but that the Gen<g ref="char:EOLhyphen"/>tlemen of <hi>Ireland</hi> underſtand that Truth, but neceſſity often prevails over Judgment; we know not their Cir<g ref="char:EOLhyphen"/>cumſtances, only may gueſs, that a Country who in their greateſt Proſperity had never Four Hundred Thouſand Pounds Sterling of Running Cash, and Two Hundred and Forty Thouſand Pounds <hi>per Annum</hi> of the Rents of that Kingdom, belonging unto, and ſpent in this, are in hazard of having all carryed out. But let their conſideration be what it will, I think we have no reaſon to fear, but rather pity them in thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> matter.</p>
+            <p>I had like to have paſt over your moſt ſenſible part; for it in Truth shews the Man and his Converſa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Your Words are theſe, <hi>But that which I think the moſt unaccountable of all is, that we ſuffer them to hold Parlia<g ref="char:EOLhyphen"/>ments, Settle Eſtates, Pardon their own Rebellions,</hi> &amp;c,</p>
+            <p>It is plain what you mean, but it comes ſo near Arraigning the Government, that you durſt not ex<g ref="char:EOLhyphen"/>preſs it in plain Words; the late King <hi>JAMES,</hi> with his Iriſh <hi>Mob,</hi> that he called, a Parliament in <hi>Dublin,</hi> did there Attaint all the Brittiſh Proteſtants by Name, that owned King <hi>William</hi> their Rightful, Lawful King; and to make ſure of all the Proteſtants Eſtates in that
+<pb n="15" facs="tcp:31319:8"/>Kingdom, their pretended Act named Women and Children that never ſaw Iriſh Ground. Now this Re<g ref="char:EOLhyphen"/>bellious Edict of the Iriſh, the preſent Parliament of <hi>Ire<g ref="char:EOLhyphen"/>land</hi> have declared and Enacted Illegal and Rebellious, and the pretended Parliament that made it, to be then in Rebellion againſt the Crown of <hi>England.</hi> And for this you ſay, the Parliaments of <hi>Ireland</hi> pardon their own Rebellions: for you do inſinuate there being in Rebellion when they left the late King <hi>James:</hi> Truly Sir, by what I hear of that Parliament, they are ſo far from pardoning Rebellions, that they expel'd one of their own Members for but a ſmall overt Act in the time of the late King <hi>James</hi> being in <hi>Ireland.</hi> They are a people (I am ſorry it should be ſo in reſpect of our ſelves, tho' I commend it in them,) that are not divided, as we are, in Parties, but as one Man in His Majeſty's Intereſt, except a very few that are advanced in the King's Service, as too many have been here, by miſtake of ſome, and deſign of others; however thoſe Plants grow not in <hi>Ireland;</hi> it is obſerved no vene<g ref="char:EOLhyphen"/>mous Creature brought from <hi>England,</hi> lives there; I ſuppoſe you never intend to try.</p>
+            <p>I have now done with your Letter, and ſhall end mine with directing what follows, to Men of better Principles then you ſeem to be; and ſuch I preſume wills not uſe <hi>Ireland</hi> as the Harlot would have had the Child, her Language was like yours, <hi>divide the Child, let it he neither mine nor thine.</hi> Your Friends have neither Right nor Poſſeſſion of it, and they that have you Malign; But all true Engliſh men conſider them as. <hi>Bone of our Bone,</hi> and it is reaſonable to believe the <hi>Houſe of Commons</hi> paſſed that Vote <hi>for making the Trade of Ireland more Beneficial to</hi> England with that conſide<g ref="char:EOLhyphen"/>ration, there is no doubt room enough to make it ſo.</p>
+            <p>I have often thought it would be one of the firſt
+<pb n="16" facs="tcp:31319:9"/>Works the Parliament, would go upon, at the conclu<g ref="char:EOLhyphen"/>ſion of a Peace, and not to let ſuch a Treaſure as that Iſland, might be made to <hi>England,</hi> lie waſte, as it hath always been, ever ſince the Engliſh have had ſooting in it, which is unaccountable; it would be thought ſo in the conduct of a Private Man, if he should neglect his own Inheritance, and ſay out his Money in Impro<g ref="char:EOLhyphen"/>ving that of another Man's; is it not ſo when we im<g ref="char:EOLhyphen"/>ploy our Men and Money to enrich the Subjects of the <hi>Mogul,</hi> and neglect a Country of our own ſo near as that, if rightly managed, would ſtrengthen and en<g ref="char:EOLhyphen"/>rich our Nation more then all the Trade we have in the World beſides. What would <hi>France</hi> make of it, if they had it? I do not think they, would cry it down, as the deſtruction of their Kingdom: We have per<g ref="char:EOLhyphen"/>haps, more reaſon to value it then is at preſent ſeen; I doubt we are in more danger of loſing our Trade and Navigation, then ever we were in ſince we were a People; and it is feared, we have nothing left to help us but <hi>Ireland;</hi> but then it muſt not be left to former Conduct, I am loath to ſay what I know in this matter.</p>
+            <p>We ſhould alſo conſider, the Reaſon we have to in<g ref="char:EOLhyphen"/>courage <hi>Brittiſh Planters</hi> in that Kingdom; for no other can ſecure it to <hi>England.</hi> But I have been too long for a Letter, tho' too ſhort for die Subject; I ſhall only give my humble Opinion, <hi>That it would he for the ſer<g ref="char:EOLhyphen"/>vice of</hi> England <hi>in this great Concern of ſettling the TRADE of both Kingdoms, to hear the People of</hi> Ireland <hi>before they conclude them;</hi> hear him, hear him, <hi>is Parliament Lan<g ref="char:EOLhyphen"/>guage, and Chriſtian Practice, before Judgment.</hi> I end with the Words af <hi>Seneca,</hi> in his Morals</p>
+            <q>He that lives according to Reaſon, ſhall never be Poor; And he that governs his Life, by Opinion, ſhall never be Rich.</q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:31319:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
